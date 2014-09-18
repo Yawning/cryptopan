@@ -33,7 +33,7 @@
 //  * One-to-one - The mapping from original IP addresses to anonymized IP
 //    addresses is one-to-one.
 //
-//  * Prefix-preserving - In Cyrpto-PAn, the IP address anonymization is
+//  * Prefix-preserving - In Crypto-PAn, the IP address anonymization is
 //    prefix-preserving. That is, if two original IP addresses share a k-bit
 //    prefix, their anonymized mappings will also share a k-bit prefix.
 //
